@@ -1,0 +1,7 @@
+<!--
+    Input:
+        manifest_365.xml
+        manifest_366.xml
+        manifest-qva.xml
+-->
+<manifest version="2.0" type="device"/>
