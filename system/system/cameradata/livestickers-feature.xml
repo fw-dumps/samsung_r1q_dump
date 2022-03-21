@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<resources>
+    <!-- Thermistor Temperature - Only JPN used -->
+    <local name="OVERHEAT_LIMITATION_TEMP" value="640" />
+    <local name="OVERHEAT_AVAILABLE_TEMP" value="550" />
+
+    <!-- Full preview size -->
+    <local name="MAIN_FULL_PREVIEW_SIZE" value="2400x1080" />
+</resources>

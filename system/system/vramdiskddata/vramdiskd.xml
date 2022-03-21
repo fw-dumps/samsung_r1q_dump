@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<records>
+<boot_file>/system/priv-app/TouchWizHome_2017/TouchWizHome_2017.apk</boot_file>
+<boot_file>/system/lib64/libhwui.so</boot_file>
+<boot_file>/system/lib64/libjpeg.so</boot_file>
+<boot_file>/system/lib64/libandroid_servers.so</boot_file>
+<boot_file>/system/lib64/libui.so</boot_file>
+<boot_file>/system/framework/framework.jar</boot_file>
+<boot_file>/system/framework/semwifi-service.jar</boot_file>
+<boot_file>/system/framework/framework-res.apk</boot_file>
+<boot_file>/system/framework/oat/arm64/services.odex</boot_file>
+<boot_file>/system/framework/services.jar</boot_file>
+<boot_file>/system/lib64/libgralloctypes.so</boot_file>
+<boot_file>/system/framework/arm/boot-framework.oat</boot_file>
+<boot_file>/system/lib/libhwui.so</boot_file>
+<boot_file>/system/lib/libgui.so</boot_file>
+<boot_file>/system/lib/libc++.so</boot_file>
+<boot_file>/system/lib/libhidlbase.so</boot_file>
+<boot_file>/system/lib/android.hardware.graphics.mapper@4.0.so</boot_file>
+<boot_file>/vendor/lib/hw/android.hardware.graphics.mapper@4.0-impl-qti-display.so</boot_file>
+<boot_file>/system/lib64/android.hardware.graphics.composer@2.4.so</boot_file>
+<boot_file>/system/lib64/android.hardware.graphics.allocator@3.0.so</boot_file>
+<boot_file>/system/lib64/android.hardware.graphics.mapper@3.0.so</boot_file>
+<boot_file>/vendor/lib64/libsdmextension.so</boot_file>
+<boot_file>/vendor/lib64/hw/hwcomposer.atoll.so</boot_file>
+<boot_file>/vendor/lib64/hw/android.hardware.graphics.mapper@3.0-impl-qti-display.so</boot_file>
+</records>

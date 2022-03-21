@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<resources>
+    <!-- Performance features -->
+    <local name="CONFIG_DVFS_CPU_MIN_CLOCK_DURING_BODY_TRACKING" value="1401600" />
+    <local name="CONFIG_DVFS_GPU_MIN_CLOCK_DURING_BODY_TRACKING" value="355000" />
+
+    <!-- Full preview size -->
+    <local name="MAIN_FULL_PREVIEW_SIZE" value="2400x1080" />
+</resources>
