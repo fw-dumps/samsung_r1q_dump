@@ -1,0 +1,16 @@
+{
+  "update_version": 1,
+  "note": "Update Conf URI and ringing_timer",
+  "imsprofile_update":
+  {
+     "profile": [
+         {
+           "name": "NAMASTE VoLTE",
+           "mnoname": "Namaste_NP",
+           "representative_plmn": "42901",
+           "conference_uri": "sip:mmtel@conf-factory.ims.mnc001.mcc429.3gppnetwork.org",
+           "ringing_timer": 45
+         }
+     ]
+  }
+}

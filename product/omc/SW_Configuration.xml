@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A805F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>ODM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A805FODM</CSCName>
+        <CSCVersion>6DUJ4</CSCVersion>
+        <NbCustomer>4</NbCustomer>
+        <CustomerData src="/Customer/INS/customer.xml" />
+        <CustomerData src="/Customer/NPL/customer.xml" />
+        <CustomerData src="/Customer/SLK/customer.xml" />
+        <CustomerData src="/Customer/BNG/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>BNG</CustomerCode>
+            <Version>SAOMC_SM-A805F_ODM_BNG_RR_0005</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>INS</CustomerCode>
+            <Version>SAOMC_SM-A805F_ODM_INS_RR_0011</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NPL</CustomerCode>
+            <Version>SAOMC_SM-A805F_ODM_NPL_RR_0007</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLK</CustomerCode>
+            <Version>SAOMC_SM-A805F_ODM_SLK_RR_0009</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
